@@ -9,7 +9,7 @@ or
 
 copy and paste the script into a file 
 
-Change the field run the command:
+Change the fields run the command:
 ```
 sh laptopScript.sh "laptopUserName" "githubEmail@hotmail.com"
 ```
