@@ -1,7 +1,8 @@
 # Laptop-Setup-Script
 
 ownload the script:
- curl -LJO https://raw.githubusercontent.com/robbobby/Laptop-Setup-Script/main/laptopSetup.sh
+``` curl -LJO https://raw.githubusercontent.com/robbobby/Laptop-Setup-Script/main/laptopSetup.sh
+```
 
 or
 
