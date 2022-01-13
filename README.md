@@ -1,6 +1,6 @@
 # Laptop-Setup-Script
 
-ownload the script:
+download the script:
 ``` 
 curl -LJO https://raw.githubusercontent.com/robbobby/Laptop-Setup-Script/main/laptopSetup.sh
 ```
