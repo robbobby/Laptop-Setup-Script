@@ -29,6 +29,8 @@ brew install --cask zoom
 brew install --cask notion
 brew install --cask drawio
 
+brew install whatsapp
+
 brew install mysql
 brew install --cask mysqlworkbench
 brew services start mysql
